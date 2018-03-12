@@ -21,6 +21,8 @@ import {
 } from 'semantic-ui-react';
 
 export default class HomePage extends React.PureComponent {
+  state = {};
+
   render() {
     return (
       <Container style={{ marginTop: '10px' }}>

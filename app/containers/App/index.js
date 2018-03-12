@@ -13,8 +13,6 @@
 
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
-
-import HomePage from 'containers/HomePage/Loadable';
 import Game from 'containers/Game/Loadable';
 import NotFoundPage from 'containers/NotFoundPage/Loadable';
 

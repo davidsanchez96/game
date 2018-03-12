@@ -7,7 +7,6 @@
 import React from 'react';
 import styled from 'styled-components';
 import PropTypes from 'prop-types';
-import axios from 'axios';
 
 const Square = styled.button`
   position: relative;
