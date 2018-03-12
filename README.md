@@ -60,7 +60,7 @@
 # Technology Stack
 
 - [**React boilerplate**](https://github.com/react-boilerplate/react-boilerplate): A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
-- [**axios**](docs/general): A short overview of the included tools
-- [**styled-components**](docs/general/commands.md): Getting the most out of this boilerplate
-- [**Semantic-UI**](docs/testing): How to work with the built-in test harness
-- [**react-animations**](docs/css): How to work with the CSS tooling
+- [**axios**](https://github.com/axios/axios): Promise based HTTP client for the browser and node.js 
+- [**styled-components**](https://github.com/styled-components/styled-components): Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress
+- [**Semantic-UI-React**](https://github.com/Semantic-Org/Semantic-UI-React): The official Semantic-UI-React integration 
+- [**react-animations**](https://github.com/FormidableLabs/react-animations): A collection of animations that can be used with any inline style library that supports using objects to define keyframe animations, such as styled-components or Aphrodite.
